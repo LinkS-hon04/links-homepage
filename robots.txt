@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://links-hon04.github.io/links-homepage/sitemap.xml
