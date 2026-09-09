@@ -1,0 +1,3 @@
+/* The hero uses the exact high-resolution artwork embedded in the supplied HTML. */
+.hero{height:47.66vw!important;min-height:0!important;max-height:none!important;aspect-ratio:auto!important;background-image:url('hero-html-reference.png')!important;background-size:100% auto!important;background-position:center calc(-6.45vw)!important;background-repeat:no-repeat!important}
+@media(max-width:780px){.hero{height:47.66vw!important}}
