@@ -1,3 +1,0 @@
-/* Restore the supplied original hero composition and prevent duplicate AI lettering. */
-.service-card:nth-child(3) .service-icon{font-size:0!important}
-.service-card:nth-child(3) .service-icon:before{font-size:16px!important}
